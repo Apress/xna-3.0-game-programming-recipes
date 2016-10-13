@@ -1,0 +1,7 @@
+C:\Documents and Settings\riemer\My Documents\Visual Studio 2008\XNA 3.0 Recipes\Chapter08\7_Rich_presence\BookCode\BookCode\bin\x86\Debug\Content\myFont.xnb
+C:\Documents and Settings\riemer\My Documents\Visual Studio 2008\XNA 3.0 Recipes\Chapter08\7_Rich_presence\BookCode\BookCode\bin\x86\Debug\BookCodeWin.exe
+C:\Documents and Settings\riemer\My Documents\Visual Studio 2008\XNA 3.0 Recipes\Chapter08\7_Rich_presence\BookCode\BookCode\bin\x86\Debug\BookCodeWin.pdb
+C:\Documents and Settings\riemer\My Documents\Visual Studio 2008\XNA 3.0 Recipes\Chapter08\7_Rich_presence\BookCode\BookCode\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\riemer\My Documents\Visual Studio 2008\XNA 3.0 Recipes\Chapter08\7_Rich_presence\BookCode\BookCode\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Documents and Settings\riemer\My Documents\Visual Studio 2008\XNA 3.0 Recipes\Chapter08\7_Rich_presence\BookCode\BookCode\obj\x86\Debug\BookCodeWin.exe
+C:\Documents and Settings\riemer\My Documents\Visual Studio 2008\XNA 3.0 Recipes\Chapter08\7_Rich_presence\BookCode\BookCode\obj\x86\Debug\BookCodeWin.pdb

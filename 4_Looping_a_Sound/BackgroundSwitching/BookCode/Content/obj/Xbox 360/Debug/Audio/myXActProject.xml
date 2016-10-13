@@ -1,0 +1,109 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Sections>
+  <WaveBank Name="myWaveBank">Wave Bank
+{
+    Name = myWaveBank;
+    Xbox File = Xbox\myWaveBank.xwb;
+    Windows File = Win\myWaveBank.xwb;
+    Xbox Bank Path Edited = 0;
+    Windows Bank Path Edited = 0;
+    Seek Tables = 1;
+    Compression Preset Name = &lt;none&gt;;
+    Bank Last Revised Low = 624148218;
+    Bank Last Revised High = 29940267;
+
+    Wave
+    {
+        Name = bgAudio1;
+        File = Audio1.wav;
+        Build Settings Last Modified Low = 217741968;
+        Build Settings Last Modified High = 29940267;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 2;
+            Sampling Rate = 22255;
+            Bits Per Sample = 0;
+            Play Region Offset = 44;
+            Play Region Length = 901566;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 1017894572;
+            Last Modified High = 29940243;
+        }
+    }
+
+    Wave
+    {
+        Name = bgAudio2;
+        File = Audio2.wav;
+        Build Settings Last Modified Low = 217741968;
+        Build Settings Last Modified High = 29940267;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 2;
+            Sampling Rate = 22255;
+            Bits Per Sample = 0;
+            Play Region Offset = 44;
+            Play Region Length = 608078;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 4033363322;
+            Last Modified High = 29940243;
+        }
+    }
+
+    Wave
+    {
+        Name = bgAudio3;
+        File = Audio3.wav;
+        Build Settings Last Modified Low = 217741968;
+        Build Settings Last Modified High = 29940267;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 2;
+            Sampling Rate = 22255;
+            Bits Per Sample = 0;
+            Play Region Offset = 44;
+            Play Region Length = 2533620;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 1731019572;
+            Last Modified High = 29940243;
+        }
+    }
+
+    Wave
+    {
+        Name = bgAudio4;
+        File = Audio4.wav;
+        Build Settings Last Modified Low = 217741968;
+        Build Settings Last Modified High = 29940267;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 2;
+            Sampling Rate = 22255;
+            Bits Per Sample = 0;
+            Play Region Offset = 44;
+            Play Region Length = 760528;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 19646026;
+            Last Modified High = 29940244;
+        }
+    }
+}
+
+</WaveBank>
+</Sections>

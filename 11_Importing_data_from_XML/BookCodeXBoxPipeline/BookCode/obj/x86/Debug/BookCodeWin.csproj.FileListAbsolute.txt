@@ -1,0 +1,9 @@
+C:\Documents and Settings\riemer\My Documents\Visual Studio 2008\XNA 3.0 Recipes\Chapter05\11_Importing_data_from_XML\BookCodeXBoxPipeline\BookCode\bin\x86\Debug\Content\data.xnb
+C:\Documents and Settings\riemer\My Documents\Visual Studio 2008\XNA 3.0 Recipes\Chapter05\11_Importing_data_from_XML\BookCodeXBoxPipeline\BookCode\bin\x86\Debug\BookCodeWin.exe
+C:\Documents and Settings\riemer\My Documents\Visual Studio 2008\XNA 3.0 Recipes\Chapter05\11_Importing_data_from_XML\BookCodeXBoxPipeline\BookCode\bin\x86\Debug\BookCodeWin.pdb
+C:\Documents and Settings\riemer\My Documents\Visual Studio 2008\XNA 3.0 Recipes\Chapter05\11_Importing_data_from_XML\BookCodeXBoxPipeline\BookCode\bin\x86\Debug\TypeReaders.dll
+C:\Documents and Settings\riemer\My Documents\Visual Studio 2008\XNA 3.0 Recipes\Chapter05\11_Importing_data_from_XML\BookCodeXBoxPipeline\BookCode\bin\x86\Debug\TypeReaders.pdb
+C:\Documents and Settings\riemer\My Documents\Visual Studio 2008\XNA 3.0 Recipes\Chapter05\11_Importing_data_from_XML\BookCodeXBoxPipeline\BookCode\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\riemer\My Documents\Visual Studio 2008\XNA 3.0 Recipes\Chapter05\11_Importing_data_from_XML\BookCodeXBoxPipeline\BookCode\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Documents and Settings\riemer\My Documents\Visual Studio 2008\XNA 3.0 Recipes\Chapter05\11_Importing_data_from_XML\BookCodeXBoxPipeline\BookCode\obj\x86\Debug\BookCodeWin.exe
+C:\Documents and Settings\riemer\My Documents\Visual Studio 2008\XNA 3.0 Recipes\Chapter05\11_Importing_data_from_XML\BookCodeXBoxPipeline\BookCode\obj\x86\Debug\BookCodeWin.pdb

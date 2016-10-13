@@ -1,0 +1,4 @@
+Content\Arial.xnb
+Content\Audio\myXActProject.xgs
+Content\Audio\myWaveBank.xwb
+Content\Audio\mySoundBank.xsb

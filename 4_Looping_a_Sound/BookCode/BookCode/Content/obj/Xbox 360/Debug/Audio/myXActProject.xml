@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Sections>
+  <WaveBank Name="myWaveBank">Wave Bank
+{
+    Name = myWaveBank;
+    Xbox File = Xbox\myWaveBank.xwb;
+    Windows File = Win\myWaveBank.xwb;
+    Xbox Bank Path Edited = 0;
+    Windows Bank Path Edited = 0;
+    Seek Tables = 1;
+    Compression Preset Name = &lt;none&gt;;
+    Bank Last Revised Low = 3812022480;
+    Bank Last Revised High = 29940245;
+
+    Wave
+    {
+        Name = audio1;
+        File = audio1.wav;
+        Build Settings Last Modified Low = 3736866230;
+        Build Settings Last Modified High = 29940245;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 2;
+            Sampling Rate = 22255;
+            Bits Per Sample = 0;
+            Play Region Offset = 44;
+            Play Region Length = 901566;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 1017894572;
+            Last Modified High = 29940243;
+        }
+    }
+}
+
+</WaveBank>
+</Sections>

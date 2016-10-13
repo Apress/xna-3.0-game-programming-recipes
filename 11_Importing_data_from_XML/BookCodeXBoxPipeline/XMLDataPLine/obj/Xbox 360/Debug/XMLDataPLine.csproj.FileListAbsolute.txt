@@ -1,0 +1,7 @@
+C:\Documents and Settings\riemer\My Documents\Visual Studio 2008\XNA 3.0 Recipes\Chapter05\11_Importing_data_from_XML\BookCodeXBoxPipeline\XMLDataPLine\bin\Xbox 360\Debug\XMLDataPLine.dll
+C:\Documents and Settings\riemer\My Documents\Visual Studio 2008\XNA 3.0 Recipes\Chapter05\11_Importing_data_from_XML\BookCodeXBoxPipeline\XMLDataPLine\bin\Xbox 360\Debug\XMLDataPLine.pdb
+C:\Documents and Settings\riemer\My Documents\Visual Studio 2008\XNA 3.0 Recipes\Chapter05\11_Importing_data_from_XML\BookCodeXBoxPipeline\XMLDataPLine\bin\Xbox 360\Debug\TypeReaders.dll
+C:\Documents and Settings\riemer\My Documents\Visual Studio 2008\XNA 3.0 Recipes\Chapter05\11_Importing_data_from_XML\BookCodeXBoxPipeline\XMLDataPLine\bin\Xbox 360\Debug\TypeReaders.pdb
+C:\Documents and Settings\riemer\My Documents\Visual Studio 2008\XNA 3.0 Recipes\Chapter05\11_Importing_data_from_XML\BookCodeXBoxPipeline\XMLDataPLine\obj\Xbox 360\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\riemer\My Documents\Visual Studio 2008\XNA 3.0 Recipes\Chapter05\11_Importing_data_from_XML\BookCodeXBoxPipeline\XMLDataPLine\obj\Xbox 360\Debug\XMLDataPLine.dll
+C:\Documents and Settings\riemer\My Documents\Visual Studio 2008\XNA 3.0 Recipes\Chapter05\11_Importing_data_from_XML\BookCodeXBoxPipeline\XMLDataPLine\obj\Xbox 360\Debug\XMLDataPLine.pdb

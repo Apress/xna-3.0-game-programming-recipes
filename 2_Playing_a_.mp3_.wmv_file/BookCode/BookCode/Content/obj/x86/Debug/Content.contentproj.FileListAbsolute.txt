@@ -1,0 +1,3 @@
+C:\Documents and Settings\riemer\My Documents\Visual Studio 2008\XNA 3.0 Recipes\Chapter07\1_Playing_a_.wav_file\BookCode\BookCode\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\riemer\My Documents\Visual Studio 2008\XNA 3.0 Recipes\Chapter07\Copy of 1_Playing_a_.wav_file\BookCode\BookCode\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\riemer\My Documents\Visual Studio 2008\XNA 3.0 Recipes\Chapter07\2_Playing_a_.mp3_.wmv_file\BookCode\BookCode\Content\obj\x86\Debug\ResolveAssemblyReference.cache

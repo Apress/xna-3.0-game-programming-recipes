@@ -1,0 +1,4 @@
+Content\Arial.xnb
+Content\effect.xnb
+Content\test.xnb
+Content\test.wma

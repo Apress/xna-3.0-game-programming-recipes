@@ -1,0 +1,12 @@
+C:\Documents and Settings\riemer\My Documents\Visual Studio 2008\XNA 3.0 Recipes\Chapter05\15_Ocean_Water\BookCode\BookCode\bin\x86\Debug\Content\oceanwater.xnb
+C:\Documents and Settings\riemer\My Documents\Visual Studio 2008\XNA 3.0 Recipes\Chapter05\15_Ocean_Water\BookCode\BookCode\bin\x86\Debug\Content\skybox01.xnb
+C:\Documents and Settings\riemer\My Documents\Visual Studio 2008\XNA 3.0 Recipes\Chapter05\15_Ocean_Water\BookCode\BookCode\bin\x86\Debug\Content\skybox.xnb
+C:\Documents and Settings\riemer\My Documents\Visual Studio 2008\XNA 3.0 Recipes\Chapter05\15_Ocean_Water\BookCode\BookCode\bin\x86\Debug\Content\skybox02.xnb
+C:\Documents and Settings\riemer\My Documents\Visual Studio 2008\XNA 3.0 Recipes\Chapter05\15_Ocean_Water\BookCode\BookCode\bin\x86\Debug\Content\waterbumps.xnb
+C:\Documents and Settings\riemer\My Documents\Visual Studio 2008\XNA 3.0 Recipes\Chapter05\15_Ocean_Water\BookCode\BookCode\bin\x86\Debug\Content\skybox02_0.xnb
+C:\Documents and Settings\riemer\My Documents\Visual Studio 2008\XNA 3.0 Recipes\Chapter05\15_Ocean_Water\BookCode\BookCode\bin\x86\Debug\BookCodeWin.exe
+C:\Documents and Settings\riemer\My Documents\Visual Studio 2008\XNA 3.0 Recipes\Chapter05\15_Ocean_Water\BookCode\BookCode\bin\x86\Debug\BookCodeWin.pdb
+C:\Documents and Settings\riemer\My Documents\Visual Studio 2008\XNA 3.0 Recipes\Chapter05\15_Ocean_Water\BookCode\BookCode\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\riemer\My Documents\Visual Studio 2008\XNA 3.0 Recipes\Chapter05\15_Ocean_Water\BookCode\BookCode\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Documents and Settings\riemer\My Documents\Visual Studio 2008\XNA 3.0 Recipes\Chapter05\15_Ocean_Water\BookCode\BookCode\obj\x86\Debug\BookCodeWin.exe
+C:\Documents and Settings\riemer\My Documents\Visual Studio 2008\XNA 3.0 Recipes\Chapter05\15_Ocean_Water\BookCode\BookCode\obj\x86\Debug\BookCodeWin.pdb

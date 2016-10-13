@@ -1,0 +1,1 @@
+C:\Documents and Settings\riemer\My Documents\Visual Studio 2005\XNARecipes\Definitief\Chapter02\4_Quaternion\BookCode\BookCode\Content\obj\x86\Debug\ResolveAssemblyReference.cache

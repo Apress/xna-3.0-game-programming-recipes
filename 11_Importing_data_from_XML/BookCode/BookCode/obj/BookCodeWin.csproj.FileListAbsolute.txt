@@ -1,0 +1,10 @@
+C:\Documents and Settings\riemer\My Documents\Visual Studio 2005\XNARecipes\Definitief\Chapter05\13_Importing_data_from_XML\BookCode\BookCode\bin\x86\Debug\Content\data.xnb
+C:\Documents and Settings\riemer\My Documents\Visual Studio 2005\XNARecipes\Definitief\Chapter05\13_Importing_data_from_XML\BookCode\BookCode\bin\x86\Debug\BookCodeWin.exe
+C:\Documents and Settings\riemer\My Documents\Visual Studio 2005\XNARecipes\Definitief\Chapter05\13_Importing_data_from_XML\BookCode\BookCode\bin\x86\Debug\BookCodeWin.pdb
+C:\Documents and Settings\riemer\My Documents\Visual Studio 2005\XNARecipes\Definitief\Chapter05\13_Importing_data_from_XML\BookCode\BookCode\bin\x86\Debug\XMLDataPLine.dll
+C:\Documents and Settings\riemer\My Documents\Visual Studio 2005\XNARecipes\Definitief\Chapter05\13_Importing_data_from_XML\BookCode\BookCode\bin\x86\Debug\XMLDataPLine.pdb
+C:\Documents and Settings\riemer\My Documents\Visual Studio 2005\XNARecipes\Definitief\Chapter05\13_Importing_data_from_XML\BookCode\BookCode\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\riemer\My Documents\Visual Studio 2005\XNARecipes\Definitief\Chapter05\13_Importing_data_from_XML\BookCode\BookCode\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Documents and Settings\riemer\My Documents\Visual Studio 2005\XNARecipes\Definitief\Chapter05\13_Importing_data_from_XML\BookCode\BookCode\obj\x86\Debug\BookCodeWin.obj.x86.Debug.Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Documents and Settings\riemer\My Documents\Visual Studio 2005\XNARecipes\Definitief\Chapter05\13_Importing_data_from_XML\BookCode\BookCode\obj\x86\Debug\BookCodeWin.exe
+C:\Documents and Settings\riemer\My Documents\Visual Studio 2005\XNARecipes\Definitief\Chapter05\13_Importing_data_from_XML\BookCode\BookCode\obj\x86\Debug\BookCodeWin.pdb

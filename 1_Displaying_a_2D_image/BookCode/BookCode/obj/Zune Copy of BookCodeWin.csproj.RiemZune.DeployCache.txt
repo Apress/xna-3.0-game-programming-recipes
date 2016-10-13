@@ -1,0 +1,11 @@
+01c89ca3d5d843a189b7b9453598fd4c
+0
+RiemZune
+C:\Documents and Settings\riemer\My Documents\Visual Studio 2008\XNA 3.0 Recipes\Chapter03\1_Displaying_a_2D_image\BookCode\BookCode\bin\Zune\Debug\
+128719346680000000
+C:\Documents and Settings\riemer\My Documents\Visual Studio 2008\XNA 3.0 Recipes\Chapter03\1_Displaying_a_2D_image\BookCode\BookCode\GameThumbnail.png
+2007-12-26T13:26:28.0000000Z
+C:\Documents and Settings\riemer\My Documents\Visual Studio 2008\XNA 3.0 Recipes\Chapter03\1_Displaying_a_2D_image\BookCode\BookCode\bin\Zune\Debug\BookCodeWin.exe
+2008-11-23T17:23:31.4531250Z
+C:\Documents and Settings\riemer\My Documents\Visual Studio 2008\XNA 3.0 Recipes\Chapter03\1_Displaying_a_2D_image\BookCode\BookCode\bin\Zune\Debug\Content\danc_princess.xnb
+2008-11-23T17:23:30.2187500Z

@@ -1,0 +1,9 @@
+C:\Documents and Settings\riemer\My Documents\Visual Studio 2008\XNA 3.0 Recipes\Chapter07\2_Playing_a_.mp3_.wmv_file\BookCode\BookCode\bin\Xbox 360\Debug\Content\Arial.xnb
+C:\Documents and Settings\riemer\My Documents\Visual Studio 2008\XNA 3.0 Recipes\Chapter07\2_Playing_a_.mp3_.wmv_file\BookCode\BookCode\bin\Xbox 360\Debug\Content\sample.xnb
+C:\Documents and Settings\riemer\My Documents\Visual Studio 2008\XNA 3.0 Recipes\Chapter07\2_Playing_a_.mp3_.wmv_file\BookCode\BookCode\bin\Xbox 360\Debug\Content\sample.wma
+C:\Documents and Settings\riemer\My Documents\Visual Studio 2008\XNA 3.0 Recipes\Chapter07\2_Playing_a_.mp3_.wmv_file\BookCode\BookCode\bin\Xbox 360\Debug\BookCodeXBox.exe
+C:\Documents and Settings\riemer\My Documents\Visual Studio 2008\XNA 3.0 Recipes\Chapter07\2_Playing_a_.mp3_.wmv_file\BookCode\BookCode\bin\Xbox 360\Debug\BookCodeXBox.pdb
+C:\Documents and Settings\riemer\My Documents\Visual Studio 2008\XNA 3.0 Recipes\Chapter07\2_Playing_a_.mp3_.wmv_file\BookCode\BookCode\obj\Xbox 360\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\riemer\My Documents\Visual Studio 2008\XNA 3.0 Recipes\Chapter07\2_Playing_a_.mp3_.wmv_file\BookCode\BookCode\obj\Xbox 360\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Documents and Settings\riemer\My Documents\Visual Studio 2008\XNA 3.0 Recipes\Chapter07\2_Playing_a_.mp3_.wmv_file\BookCode\BookCode\obj\Xbox 360\Debug\BookCodeXBox.exe
+C:\Documents and Settings\riemer\My Documents\Visual Studio 2008\XNA 3.0 Recipes\Chapter07\2_Playing_a_.mp3_.wmv_file\BookCode\BookCode\obj\Xbox 360\Debug\BookCodeXBox.pdb

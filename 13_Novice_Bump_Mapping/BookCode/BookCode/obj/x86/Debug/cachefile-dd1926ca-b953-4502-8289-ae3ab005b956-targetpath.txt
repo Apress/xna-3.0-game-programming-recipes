@@ -1,0 +1,3 @@
+Content\novicebumpmapping.xnb
+Content\wall.xnb
+Content\wall_normal_map.xnb

@@ -1,0 +1,10 @@
+C:\Documents and Settings\riemer\My Documents\Visual Studio 2008\XNA 3.0 Recipes\Chapter07\Copy of 1_Playing_a_.wav_file\BookCode\BookCode\bin\Zune\Debug\Content\Arial.xnb
+C:\Documents and Settings\riemer\My Documents\Visual Studio 2008\XNA 3.0 Recipes\Chapter07\Copy of 1_Playing_a_.wav_file\BookCode\BookCode\bin\Zune\Debug\Content\effect.xnb
+C:\Documents and Settings\riemer\My Documents\Visual Studio 2008\XNA 3.0 Recipes\Chapter07\Copy of 1_Playing_a_.wav_file\BookCode\BookCode\bin\Zune\Debug\Content\test.xnb
+C:\Documents and Settings\riemer\My Documents\Visual Studio 2008\XNA 3.0 Recipes\Chapter07\Copy of 1_Playing_a_.wav_file\BookCode\BookCode\bin\Zune\Debug\Content\test.wma
+C:\Documents and Settings\riemer\My Documents\Visual Studio 2008\XNA 3.0 Recipes\Chapter07\Copy of 1_Playing_a_.wav_file\BookCode\BookCode\bin\Zune\Debug\BookCodeWin.exe
+C:\Documents and Settings\riemer\My Documents\Visual Studio 2008\XNA 3.0 Recipes\Chapter07\Copy of 1_Playing_a_.wav_file\BookCode\BookCode\bin\Zune\Debug\BookCodeWin.pdb
+C:\Documents and Settings\riemer\My Documents\Visual Studio 2008\XNA 3.0 Recipes\Chapter07\Copy of 1_Playing_a_.wav_file\BookCode\BookCode\obj\Zune\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\riemer\My Documents\Visual Studio 2008\XNA 3.0 Recipes\Chapter07\Copy of 1_Playing_a_.wav_file\BookCode\BookCode\obj\Zune\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Documents and Settings\riemer\My Documents\Visual Studio 2008\XNA 3.0 Recipes\Chapter07\Copy of 1_Playing_a_.wav_file\BookCode\BookCode\obj\Zune\Debug\BookCodeWin.exe
+C:\Documents and Settings\riemer\My Documents\Visual Studio 2008\XNA 3.0 Recipes\Chapter07\Copy of 1_Playing_a_.wav_file\BookCode\BookCode\obj\Zune\Debug\BookCodeWin.pdb

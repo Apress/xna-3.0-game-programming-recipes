@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+	<XnaContent>
+		   <Asset Type="TypeReaders.MapData">
+				<mapName>Battle In The Middle</mapName>
+				<numberOfCastles>8</numberOfCastles>
+				<allies>
+					<Item>Humans</Item>
+					<Item>Elves</Item>
+					<Item>Dwarves</Item>
+				</allies>
+		   </Asset>
+	</XnaContent>

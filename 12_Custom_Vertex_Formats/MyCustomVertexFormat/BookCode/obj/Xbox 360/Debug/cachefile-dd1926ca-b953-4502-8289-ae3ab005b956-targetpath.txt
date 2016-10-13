@@ -1,0 +1,2 @@
+Content\customvertexshader.xnb
+Content\XNAtexture.xnb

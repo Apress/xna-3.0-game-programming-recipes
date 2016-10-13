@@ -1,0 +1,3 @@
+C:\Documents and Settings\riemer\My Documents\Visual Studio 2008\XNA 3.0 Recipes\Chapter02\11_ROAM\BookCode\obj\Xbox 360\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\riemer\My Documents\Visual Studio 2008\XNA 3.0 Recipes\Chapter02\11_ROAM\BookCode\obj\Xbox 360\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Documents and Settings\riemer\My Documents\Visual Studio 2008\XNA 3.0 Recipes\Chapter02\11_ROAM\BookCode\obj\Xbox 360\Debug\BookCodeXBox.obj.Xbox_360.Debug.Microsoft.Xna.Framework.RuntimeProfile.txt

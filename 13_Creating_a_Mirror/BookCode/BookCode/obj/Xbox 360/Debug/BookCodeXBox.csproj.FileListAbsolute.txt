@@ -1,0 +1,12 @@
+C:\Documents and Settings\riemer\My Documents\Visual Studio 2008\XNA 3.0 Recipes\Chapter03\13_Creating_a_Mirror\BookCode\BookCode\bin\Xbox 360\Debug\Content\mirrorEffect.xnb
+C:\Documents and Settings\riemer\My Documents\Visual Studio 2008\XNA 3.0 Recipes\Chapter03\13_Creating_a_Mirror\BookCode\BookCode\bin\Xbox 360\Debug\Content\dude.xnb
+C:\Documents and Settings\riemer\My Documents\Visual Studio 2008\XNA 3.0 Recipes\Chapter03\13_Creating_a_Mirror\BookCode\BookCode\bin\Xbox 360\Debug\Content\head_0.xnb
+C:\Documents and Settings\riemer\My Documents\Visual Studio 2008\XNA 3.0 Recipes\Chapter03\13_Creating_a_Mirror\BookCode\BookCode\bin\Xbox 360\Debug\Content\jacket_0.xnb
+C:\Documents and Settings\riemer\My Documents\Visual Studio 2008\XNA 3.0 Recipes\Chapter03\13_Creating_a_Mirror\BookCode\BookCode\bin\Xbox 360\Debug\Content\pants_0.xnb
+C:\Documents and Settings\riemer\My Documents\Visual Studio 2008\XNA 3.0 Recipes\Chapter03\13_Creating_a_Mirror\BookCode\BookCode\bin\Xbox 360\Debug\Content\upBodyC_0.xnb
+C:\Documents and Settings\riemer\My Documents\Visual Studio 2008\XNA 3.0 Recipes\Chapter03\13_Creating_a_Mirror\BookCode\BookCode\bin\Xbox 360\Debug\BookCodeXBox.exe
+C:\Documents and Settings\riemer\My Documents\Visual Studio 2008\XNA 3.0 Recipes\Chapter03\13_Creating_a_Mirror\BookCode\BookCode\bin\Xbox 360\Debug\BookCodeXBox.pdb
+C:\Documents and Settings\riemer\My Documents\Visual Studio 2008\XNA 3.0 Recipes\Chapter03\13_Creating_a_Mirror\BookCode\BookCode\obj\Xbox 360\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\riemer\My Documents\Visual Studio 2008\XNA 3.0 Recipes\Chapter03\13_Creating_a_Mirror\BookCode\BookCode\obj\Xbox 360\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Documents and Settings\riemer\My Documents\Visual Studio 2008\XNA 3.0 Recipes\Chapter03\13_Creating_a_Mirror\BookCode\BookCode\obj\Xbox 360\Debug\BookCodeXBox.exe
+C:\Documents and Settings\riemer\My Documents\Visual Studio 2008\XNA 3.0 Recipes\Chapter03\13_Creating_a_Mirror\BookCode\BookCode\obj\Xbox 360\Debug\BookCodeXBox.pdb

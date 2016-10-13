@@ -1,0 +1,11 @@
+01c89ca3d5d843a189b7b9453598fd4c
+0
+RiemZune
+C:\Documents and Settings\riemer\My Documents\Visual Studio 2008\XNA 3.0 Recipes\Chapter01\8_Saving\BookCode\bin\Zune\Debug\
+128731238960000000
+C:\Documents and Settings\riemer\My Documents\Visual Studio 2008\XNA 3.0 Recipes\Chapter01\8_Saving\BookCode\GameThumbnail.png
+2007-12-26T13:26:28.0000000Z
+C:\Documents and Settings\riemer\My Documents\Visual Studio 2008\XNA 3.0 Recipes\Chapter01\8_Saving\BookCode\bin\Zune\Debug\BookCodeWin.exe
+2008-12-07T11:49:46.6603472Z
+C:\Documents and Settings\riemer\My Documents\Visual Studio 2008\XNA 3.0 Recipes\Chapter01\8_Saving\BookCode\bin\Zune\Debug\Content\myFont.xnb
+2008-12-07T11:44:30.2540972Z

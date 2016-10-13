@@ -1,0 +1,2 @@
+Content\billboardtexture.xnb
+Content\bbEffect.xnb

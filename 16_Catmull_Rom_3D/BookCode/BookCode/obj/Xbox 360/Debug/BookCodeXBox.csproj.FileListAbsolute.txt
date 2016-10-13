@@ -1,0 +1,6 @@
+C:\Documents and Settings\riemer\My Documents\Visual Studio 2008\XNA 3.0 Recipes\Chapter05\16_Catmull_Rom_3D\BookCode\BookCode\bin\Xbox 360\Debug\BookCodeXBox.exe
+C:\Documents and Settings\riemer\My Documents\Visual Studio 2008\XNA 3.0 Recipes\Chapter05\16_Catmull_Rom_3D\BookCode\BookCode\bin\Xbox 360\Debug\BookCodeXBox.pdb
+C:\Documents and Settings\riemer\My Documents\Visual Studio 2008\XNA 3.0 Recipes\Chapter05\16_Catmull_Rom_3D\BookCode\BookCode\obj\Xbox 360\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\riemer\My Documents\Visual Studio 2008\XNA 3.0 Recipes\Chapter05\16_Catmull_Rom_3D\BookCode\BookCode\obj\Xbox 360\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Documents and Settings\riemer\My Documents\Visual Studio 2008\XNA 3.0 Recipes\Chapter05\16_Catmull_Rom_3D\BookCode\BookCode\obj\Xbox 360\Debug\BookCodeXBox.exe
+C:\Documents and Settings\riemer\My Documents\Visual Studio 2008\XNA 3.0 Recipes\Chapter05\16_Catmull_Rom_3D\BookCode\BookCode\obj\Xbox 360\Debug\BookCodeXBox.pdb

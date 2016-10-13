@@ -1,0 +1,3 @@
+C:\Documents and Settings\riemer\My Documents\Visual Studio 2008\XNA 3.0 Recipes\Chapter03\1_Displaying_a_2D_image\BookCode\BookCode\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\riemer\My Documents\Visual Studio 2008\XNA 3.0 Recipes\Chapter03\1_Displaying_a_2D_image\BookCode\BookCode\Content\obj\Zune\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\riemer\My Documents\Visual Studio 2008\XNA 3.0 Recipes\Chapter03\1_Displaying_a_2D_image\BookCode\BookCode\Content\obj\Xbox 360\Debug\ResolveAssemblyReference.cache

@@ -1,0 +1,10 @@
+C:\Documents and Settings\riemer\My Documents\Visual Studio 2005\XNARecipes\Definitief\Chapter05\16_Bump_Mapping\BookCode\BookCode\bin\x86\Debug\Content\wall.xnb
+C:\Documents and Settings\riemer\My Documents\Visual Studio 2005\XNARecipes\Definitief\Chapter05\16_Bump_Mapping\BookCode\BookCode\bin\x86\Debug\Content\wall_normal_map.xnb
+C:\Documents and Settings\riemer\My Documents\Visual Studio 2005\XNARecipes\Definitief\Chapter05\16_Bump_Mapping\BookCode\BookCode\bin\x86\Debug\Content\bumpmapping.xnb
+C:\Documents and Settings\riemer\My Documents\Visual Studio 2005\XNARecipes\Definitief\Chapter05\16_Bump_Mapping\BookCode\BookCode\bin\x86\Debug\BookCodeWin.exe
+C:\Documents and Settings\riemer\My Documents\Visual Studio 2005\XNARecipes\Definitief\Chapter05\16_Bump_Mapping\BookCode\BookCode\bin\x86\Debug\BookCodeWin.pdb
+C:\Documents and Settings\riemer\My Documents\Visual Studio 2005\XNARecipes\Definitief\Chapter05\16_Bump_Mapping\BookCode\BookCode\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\riemer\My Documents\Visual Studio 2005\XNARecipes\Definitief\Chapter05\16_Bump_Mapping\BookCode\BookCode\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Documents and Settings\riemer\My Documents\Visual Studio 2005\XNARecipes\Definitief\Chapter05\16_Bump_Mapping\BookCode\BookCode\obj\x86\Debug\BookCodeWin.obj.x86.Debug.Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Documents and Settings\riemer\My Documents\Visual Studio 2005\XNARecipes\Definitief\Chapter05\16_Bump_Mapping\BookCode\BookCode\obj\x86\Debug\BookCodeWin.exe
+C:\Documents and Settings\riemer\My Documents\Visual Studio 2005\XNARecipes\Definitief\Chapter05\16_Bump_Mapping\BookCode\BookCode\obj\x86\Debug\BookCodeWin.pdb

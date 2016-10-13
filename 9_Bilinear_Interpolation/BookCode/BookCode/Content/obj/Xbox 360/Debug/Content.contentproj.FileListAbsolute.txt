@@ -1,0 +1,1 @@
+C:\Documents and Settings\riemer\My Documents\Visual Studio 2008\XNA 3.0 Recipes\Chapter05\9_Bilinear_Interpolation\BookCode\BookCode\Content\obj\Xbox 360\Debug\ResolveAssemblyReference.cache

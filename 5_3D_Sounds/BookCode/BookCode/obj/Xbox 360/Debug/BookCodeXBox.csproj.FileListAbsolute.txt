@@ -1,0 +1,14 @@
+C:\Documents and Settings\riemer\My Documents\Visual Studio 2008\XNA 3.0 Recipes\Chapter07\5_3D_Sounds\BookCode\BookCode\bin\Xbox 360\Debug\Content\engine_diff_tex.xnb
+C:\Documents and Settings\riemer\My Documents\Visual Studio 2008\XNA 3.0 Recipes\Chapter07\5_3D_Sounds\BookCode\BookCode\bin\Xbox 360\Debug\Content\turret_alt_diff_tex.xnb
+C:\Documents and Settings\riemer\My Documents\Visual Studio 2008\XNA 3.0 Recipes\Chapter07\5_3D_Sounds\BookCode\BookCode\bin\Xbox 360\Debug\Content\tank.xnb
+C:\Documents and Settings\riemer\My Documents\Visual Studio 2008\XNA 3.0 Recipes\Chapter07\5_3D_Sounds\BookCode\BookCode\bin\Xbox 360\Debug\Content\engine_diff_tex_0.xnb
+C:\Documents and Settings\riemer\My Documents\Visual Studio 2008\XNA 3.0 Recipes\Chapter07\5_3D_Sounds\BookCode\BookCode\bin\Xbox 360\Debug\Content\turret_alt_diff_tex_0.xnb
+C:\Documents and Settings\riemer\My Documents\Visual Studio 2008\XNA 3.0 Recipes\Chapter07\5_3D_Sounds\BookCode\BookCode\bin\Xbox 360\Debug\Content\Audio\myXActProject.xgs
+C:\Documents and Settings\riemer\My Documents\Visual Studio 2008\XNA 3.0 Recipes\Chapter07\5_3D_Sounds\BookCode\BookCode\bin\Xbox 360\Debug\Content\Audio\myWaveBank.xwb
+C:\Documents and Settings\riemer\My Documents\Visual Studio 2008\XNA 3.0 Recipes\Chapter07\5_3D_Sounds\BookCode\BookCode\bin\Xbox 360\Debug\Content\Audio\mySoundBank.xsb
+C:\Documents and Settings\riemer\My Documents\Visual Studio 2008\XNA 3.0 Recipes\Chapter07\5_3D_Sounds\BookCode\BookCode\bin\Xbox 360\Debug\BookCodeXBox.exe
+C:\Documents and Settings\riemer\My Documents\Visual Studio 2008\XNA 3.0 Recipes\Chapter07\5_3D_Sounds\BookCode\BookCode\bin\Xbox 360\Debug\BookCodeXBox.pdb
+C:\Documents and Settings\riemer\My Documents\Visual Studio 2008\XNA 3.0 Recipes\Chapter07\5_3D_Sounds\BookCode\BookCode\obj\Xbox 360\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\riemer\My Documents\Visual Studio 2008\XNA 3.0 Recipes\Chapter07\5_3D_Sounds\BookCode\BookCode\obj\Xbox 360\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Documents and Settings\riemer\My Documents\Visual Studio 2008\XNA 3.0 Recipes\Chapter07\5_3D_Sounds\BookCode\BookCode\obj\Xbox 360\Debug\BookCodeXBox.exe
+C:\Documents and Settings\riemer\My Documents\Visual Studio 2008\XNA 3.0 Recipes\Chapter07\5_3D_Sounds\BookCode\BookCode\obj\Xbox 360\Debug\BookCodeXBox.pdb

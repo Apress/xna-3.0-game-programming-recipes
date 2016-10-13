@@ -1,0 +1,6 @@
+C:\Documents and Settings\riemer\My Documents\Visual Studio 2008\XNA 3.0 Recipes\Chapter07\2_Playing_a_.wav_file\BookCode\BookCode\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\riemer\My Documents\Visual Studio 2008\XNA 3.0 Recipes\Chapter07\2_Playing_a_.wav_file\BookCode\BookCode\Content\obj\x86\Debug\Audio\myXActProject.xml
+C:\Documents and Settings\riemer\My Documents\Visual Studio 2008\XNA 3.0 Recipes\Chapter07\2_Playing_a_.wav_file_XACT\BookCode\BookCode\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\riemer\My Documents\Visual Studio 2008\XNA 3.0 Recipes\Chapter07\2_Playing_a_.wav_file_XACT\BookCode\BookCode\Content\obj\x86\Debug\Audio\myXActProject.xml
+C:\Documents and Settings\riemer\My Documents\Visual Studio 2008\XNA 3.0 Recipes\Chapter07\3_Playing_a_.wav_file_XACT\BookCode\BookCode\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\riemer\My Documents\Visual Studio 2008\XNA 3.0 Recipes\Chapter07\3_Playing_a_.wav_file_XACT\BookCode\BookCode\Content\obj\x86\Debug\Audio\myXActProject.xml

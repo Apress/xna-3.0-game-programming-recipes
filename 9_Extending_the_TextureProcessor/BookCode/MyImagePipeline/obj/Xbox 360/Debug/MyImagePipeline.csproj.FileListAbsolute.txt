@@ -1,0 +1,5 @@
+C:\Documents and Settings\riemer\My Documents\Visual Studio 2008\XNA 3.0 Recipes\Chapter03\9_Extending_the_TextureProcessor\BookCode\MyImagePipeline\bin\Xbox 360\Debug\MyImagePipeline.dll
+C:\Documents and Settings\riemer\My Documents\Visual Studio 2008\XNA 3.0 Recipes\Chapter03\9_Extending_the_TextureProcessor\BookCode\MyImagePipeline\bin\Xbox 360\Debug\MyImagePipeline.pdb
+C:\Documents and Settings\riemer\My Documents\Visual Studio 2008\XNA 3.0 Recipes\Chapter03\9_Extending_the_TextureProcessor\BookCode\MyImagePipeline\obj\Xbox 360\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\riemer\My Documents\Visual Studio 2008\XNA 3.0 Recipes\Chapter03\9_Extending_the_TextureProcessor\BookCode\MyImagePipeline\obj\Xbox 360\Debug\MyImagePipeline.dll
+C:\Documents and Settings\riemer\My Documents\Visual Studio 2008\XNA 3.0 Recipes\Chapter03\9_Extending_the_TextureProcessor\BookCode\MyImagePipeline\obj\Xbox 360\Debug\MyImagePipeline.pdb
